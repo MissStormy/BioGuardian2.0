@@ -3,7 +3,7 @@ package bioguardian.bioguardian;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class AppCtrl {
     @FXML
     private Label welcomeText;
 
